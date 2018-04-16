@@ -5,10 +5,6 @@
  */
 package guı;
 
-/**
- *
- * @author EbruKapan
- */
 public class Deneme extends javax.swing.JFrame {
 
     /**
